@@ -1,0 +1,22 @@
+{
+  "name": "kendo-custom",
+   "version": "2017.2.0",
+  "authors": [
+    "hr <hr@aaneel.com>"
+  ],
+  "description": "custom kendo",
+  "main": "kendo-custom.js",
+  "keywords": [
+    "custom",
+    "kendo"
+  ],
+  "license": "cc-by-nc-nd-3.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
